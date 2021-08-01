@@ -1,0 +1,121 @@
+.header{
+    background-color: #a6d9e0ff;
+    height: 70px;
+    width:1122.5px;
+    }
+
+.header2{
+    font-family: "Hiragino Sans";
+    font-size: 40px;
+    color:rgb(252, 223, 188);
+    padding:0px 0px 20px 0px;
+}
+
+li{
+    list-style:none;
+    }
+
+.anzu{
+    padding:30px 30px 10px 30px;
+}
+
+ul{
+    display:flex;
+}
+h2{
+    color: rgb(149, 187, 127);
+    background-color: rgb(251, 252, 229);
+
+}
+body {
+    background-color: rgb(251, 252, 229);
+}
+
+p{
+    font-family:"Tsukushi B Round Gothic";
+}
+
+.img1{
+    /*float:left;*/
+}
+
+.profile{
+    display: flex;/*コレ*/
+    padding: 10px;
+    font-size: 13px;
+}
+
+.profile-honbun{
+    margin-left: 40px;
+}
+
+/*.profile div{
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+}*/
+
+.itiniti {
+    font-size: 13px;
+    display: flex;
+    justify-content:flex-start
+    padding: 10px;
+}
+
+.itiniti div{
+    width: 33%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.like {
+    font-size: 13px;
+}
+
+h2{
+    background-color: rgb(221, 235, 212);  
+    width:300px;
+}
+
+.p1{
+    font-size: 16px;
+}
+
+.photo{
+    display: flex;
+}
+
+.photo-left{
+    width:33%;
+}
+
+.photo-center{
+    width:33%;
+}
+
+.photo-right{
+    width:33%;
+}
+
+/*.photo{
+    position:relative;
+}
+
+.azarasi{
+    position:absolute;
+    top:0;
+    left:0;
+}*/
+
+.hogoneko {
+    font-size: 13px;
+}
+
+.p2{
+    font-size: 16px;
+}
+
+.footer{
+    background-color: #a6d9e0ff;
+    height:40px;
+}
